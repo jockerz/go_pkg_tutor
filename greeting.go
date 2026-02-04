@@ -1,4 +1,3 @@
-// package github.com/jockerz/go_pkg_tutor/greeting
 package github.com/jockerz/go_pkg_tutor
 
 
