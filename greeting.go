@@ -5,5 +5,5 @@ import "github.com/k0kubun/pp/v3"
 
 
 func Greet(name string) {
-    pp.Fprintf("Greeting %s\n", name)
+    pp.Printf("Greeting %s\n", name)
 }
